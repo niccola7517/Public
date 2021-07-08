@@ -1,0 +1,6 @@
+1. graphviz download & install (환경변수설정)
+
+2. anaconda prompt에서
+>conda install -c anaconda graphviz
+>pip install graphviz
+>pip install pydotplus
