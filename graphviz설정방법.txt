@@ -1,0 +1,7 @@
+1. graphviz download & install (환경변수설정)
+
+2. anaconda prompt에서
+>pip install graphviz
+>pip install pydotplus
+
+3. PATH 환경변수 설정 (eg. C:\Program Files\Graphviz\bin)
